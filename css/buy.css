@@ -1,0 +1,20 @@
+#cont {
+  width: 1000px;
+  border: solid 1px black;
+  margin: 50px auto; }
+
+.box {
+  width: 250px;
+  float: left;
+  border: solid 1px black;
+  box-sizing: border-box;
+  text-align: center; }
+
+.box img {
+  width: 60%; }
+
+.box p {
+  margin: 10px 0;
+  height: 40px;
+  overflow: hidden;
+  line-height: 20px; }
